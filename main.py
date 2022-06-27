@@ -29,3 +29,4 @@ def download_file(data):
 
 if __name__ == '__main__':
     filter_character()
+
